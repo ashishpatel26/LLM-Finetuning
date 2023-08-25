@@ -11,7 +11,7 @@ Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! Thi
 4. [PEFT Finetune-Bloom-560m-tagger](#peft-finetune-bloom-560m-tagger)
 5. [Finetune_Meta_OPT-6-1b_Model_bnb_peft](#Finetune_Meta_OPT-6-1b_Model_bnb_peft)
 
-6. [Finetune Falcon-7b with BNB Self Supervised Training](#Finetune Falcon-7b with BNB Self Supervised Training)
+6. [Finetune Falcon-7b with BNB Self Supervised Training](#Finetune_Falcon-7b_with_BNB_Self_Supervised_Training)
 
 | Notebook Title                                               | Description                                                  | Colab Badge                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -52,7 +52,7 @@ Details and guide for finetuning the Meta OPT-6-1b Model using PEFT.
 
 **Code:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/5.Finetune_Meta_OPT-6-1b_Model_bnb_peft.ipynb)
 
-## 6.Finetune Falcon-7b with BNB Self Supervised Training
+## 6.Finetune_Falcon-7b_with_BNB_Self_Supervised_Training
 
 Guide for finetuning Falcon-7b using BNB self-supervised training.
 
