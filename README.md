@@ -20,7 +20,7 @@ Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! Thi
 | **3. Guanaco Chatbot Demo with LLaMA-7B Model**              | Showcase of a chatbot demo powered by LLaMA-7B model.        | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/3.Guanaco%20Chatbot%20Demo%20with%20LLaMA-7B%20Model.ipynb) |
 | **4. PEFT Finetune-Bloom-560m-tagger**                       | Project details for PEFT Finetune-Bloom-560m-tagger.         | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/4.PEFT%20Finetune-Bloom-560m-tagger.ipynb#scrollTo=MDqJWba-tpnv) |
 | **5. Finetune_Meta_OPT-6-1b_Model_bnb_peft**                 | Details and guide for finetuning the Meta OPT-6-1b Model using PEFT and Bloom-560m-tagger. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/5.Finetune_Meta_OPT-6-1b_Model_bnb_peft.ipynb) |
-| **6.Finetune Falcon-7b with BNB Self Supervised Training**   | Guide for finetuning Falcon-7b using BNB self-supervised training. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/5.Finetune_Meta_OPT-6-1b_Model_bnb_peft.ipynb) |
+| **6.Finetune Falcon-7b with BNB Self Supervised Training**   | Guide for finetuning Falcon-7b using BNB self-supervised training. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/6.Finetune%20Falcon-7b%20with%20BNB%20Self%20Supervised%20Training.ipynb) |
 
 
 
@@ -56,7 +56,7 @@ Details and guide for finetuning the Meta OPT-6-1b Model using PEFT.
 
 Guide for finetuning Falcon-7b using BNB self-supervised training.
 
-**Code:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/5.Finetune_Meta_OPT-6-1b_Model_bnb_peft.ipynb)
+**Code:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/6.Finetune%20Falcon-7b%20with%20BNB%20Self%20Supervised%20Training.ipynb)
 
 ## Contributing 🤝
 
