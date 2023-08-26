@@ -3,6 +3,8 @@
 
 Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! This project focuses on efficiently fine-tuning large language models using LoRA and Hugging Face's transformers library.
 
+![](https://huggingface.co/datasets/trl-internal-testing/example-images/resolve/main/images/trl_overview.png)
+
 ## Table of Contents 📑
 
 1. [Efficiently Train Large Language Models with LoRA and Hugging Face](#efficiently-train-large-language-models-with-lora-and-hugging-face)
