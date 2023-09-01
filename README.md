@@ -5,15 +5,7 @@ Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! Thi
 
 ![](https://huggingface.co/datasets/trl-internal-testing/example-images/resolve/main/images/trl_overview.png)
 
-## Table of Contents 📑
-
-1. [Efficiently Train Large Language Models with LoRA and Hugging Face](#efficiently-train-large-language-models-with-lora-and-hugging-face)
-2. [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](#fine-tune-your-own-llama-2-model-in-a-colab-notebook)
-3. [Guanaco Chatbot Demo with LLaMA-7B Model](#guanaco-chatbot-demo-with-llama-7b-model)
-4. [PEFT Finetune-Bloom-560m-tagger](#peft-finetune-bloom-560m-tagger)
-5. [Finetune_Meta_OPT-6-1b_Model_bnb_peft](#Finetune_Meta_OPT-6-1b_Model_bnb_peft)
-
-6. [Finetune Falcon-7b with BNB Self Supervised Training](#Finetune_Falcon-7b_with_BNB_Self_Supervised_Training)
+## Fine Tuning Notebook Table 📑
 
 | Notebook Title                                               | Description                                                  | Colab Badge                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -23,42 +15,10 @@ Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! Thi
 | **4. PEFT Finetune-Bloom-560m-tagger**                       | Project details for PEFT Finetune-Bloom-560m-tagger.         | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/4.PEFT%20Finetune-Bloom-560m-tagger.ipynb#scrollTo=MDqJWba-tpnv) |
 | **5. Finetune_Meta_OPT-6-1b_Model_bnb_peft**                 | Details and guide for finetuning the Meta OPT-6-1b Model using PEFT and Bloom-560m-tagger. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/5.Finetune_Meta_OPT-6-1b_Model_bnb_peft.ipynb) |
 | **6.Finetune Falcon-7b with BNB Self Supervised Training**   | Guide for finetuning Falcon-7b using BNB self-supervised training. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/6.Finetune%20Falcon-7b%20with%20BNB%20Self%20Supervised%20Training.ipynb) |
-
-
-
-## 1. Efficiently Train Large Language Models with LoRA and Hugging Face 🚄
-
-In this section, you'll find the details and code related to efficiently training large language models using the LoRA algorithm in combination with Hugging Face's transformers library. The notebook provides step-by-step instructions and code examples.
-
-## 2. Fine-Tune Your Own Llama 2 Model in a Colab Notebook 🧙‍♂️
-
-Learn how to fine-tune your own Llama 2 model using a Colab notebook. The notebook guides you through the fine-tuning process, providing explanations and code snippets to make the process as smooth as possible.
-
-**Code** : [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/1.Efficiently_train_Large_Language_Models_with_LoRA_and_Hugging_Face.ipynb)
-
-## 3. Guanaco Chatbot Demo with LLaMA-7B Model 💬
-
-Explore the Guanaco chatbot demo powered by the LLaMA-7B model. This demo showcases the capabilities of the fine-tuned model in a chatbot scenario, demonstrating its ability to generate human-like responses.
-
-**Code:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/2.Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.ipynb)
-
-## 4. PEFT Finetune-Bloom-560m-tagger 🌸
-
-In this section, you'll find information about the PEFT Finetune-Bloom-560m-tagger project. This project focuses on specific fine-tuning tasks and includes relevant details and code snippets.
-
-**Code** : [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/4.PEFT%20Finetune-Bloom-560m-tagger.ipynb#scrollTo=MDqJWba-tpnv)
-
-## 5. Finetune_Meta_OPT-6-1b_Model_bnb_peft
-
-Details and guide for finetuning the Meta OPT-6-1b Model using PEFT.
-
-**Code:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/5.Finetune_Meta_OPT-6-1b_Model_bnb_peft.ipynb)
-
-## 6.Finetune_Falcon-7b_with_BNB_Self_Supervised_Training
-
-Guide for finetuning Falcon-7b using BNB self-supervised training.
-
-**Code:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/6.Finetune%20Falcon-7b%20with%20BNB%20Self%20Supervised%20Training.ipynb)
+| **7.FineTune LLaMa2 with QLoRa**                             | Guide to fine-tune the Llama 2 7B pre-trained model using the PEFT library and QLoRa method | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/7.FineTune_LLAMA2_with_QLORA.ipynb) |
+| **8.Fine Tuning OpenAI GPT-3.5-turbo**                       | Guide of Fine Tuning OpenAI GPT-3.5-turbo on your own data   | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/8.Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb) |
+| **9. GPT-Neo-X-20B-bnb2bit_training**                        | Guide How to train the GPT-NeoX-20B model using bfloat16 precision | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/9.GPT-neo-x-20B-bnb_4bit_training.ipynb) |
+| **10. MPT-Instruct-30B Model Training**                      | MPT-Instruct-30B is a large language model from MosaicML that is trained on a dataset of short-form instructions. It can be used to follow instructions, answer questions, and generate text. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/10.MPT_Instruct_30B.ipynb) |
 
 ## Contributing 🤝
 
