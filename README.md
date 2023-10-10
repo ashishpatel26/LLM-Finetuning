@@ -23,6 +23,7 @@ Welcome to the PEFT (Pretraining-Evaluation Fine-Tuning) project repository! Thi
 | **12.Fine_tuning_Microsoft_Phi_1_5b_on_custom_dataset(dialogstudio)** | How train a model with trl SFT Training on Microsoft Phi 1.5 with custom | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/12_Fine_tuning_Microsoft_Phi_1_5b_on_custom_dataset(dialogstudio).ipynb) |
 | **13. Finetuning OpenAI GPT3.5 Turbo**                       | How to finetune GPT 3.5 on your own data                     | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/13.Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb) |
 | **14. Finetuning Mistral-7b FineTuning Model using Autotrain-advanced** | How to finetune Mistral-7b using autotrained-advanced        | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/14.Finetuning_Mistral_7b_Using_AutoTrain.ipynb) |
+| **15. RAG LangChain Tutorial**                               | How to Use RAG using LangChain                               | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/LLM-Finetuning/blob/main/15.RAG_LangChain.ipynb) |
 
 ## Contributing 🤝
 
